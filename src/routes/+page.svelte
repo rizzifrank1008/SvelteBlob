@@ -3,6 +3,9 @@
 	export let form;
   </script>
   
+  <div>
+	simulazioneee
+  </div>
   <form
 	use:enhance
 	action="?/upload"
